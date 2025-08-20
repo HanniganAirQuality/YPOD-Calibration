@@ -1,6 +1,6 @@
 # YPOD-Calibration
 
-# Python script written to run five models of regression for calibration with a reference (can be used for harmonization)
+# Python script written to run five models of regression for calibration with a reference
 
 |Model                        |Type                                                |
 |-----------------------------|----------------------------------------------------|
