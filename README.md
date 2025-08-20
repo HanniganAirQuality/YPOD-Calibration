@@ -3,6 +3,7 @@
 # Python script written to run five models of regression for calibration with a reference (can be used for harmonization)
 
 |Model                        |Type                                                |
+|-----------------------------|----------------------------------------------------|
 |Linear Regression (regular)  |Standard multivariable regression                   |
 |Linear Regression (ridge)    |Multivariable with L2 penalty nonzero coefficients  |
 |Linear Regression (lasso)    |Multivariable with L2 penalty zero coefficients     |
