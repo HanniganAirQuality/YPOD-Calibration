@@ -10,10 +10,9 @@
 |Gradient Boosting            |Machine learning w/ outlier handling, single tree   |
 |Random Forest                |Machine learning w/ outlier handling, multiple trees|
 
-## Addition of Config file for all conditionals, header file for better organization, 
-## all plotting is done in the .ipynb file
+## Addition of Config file for all conditionals, header file for better organization, all plotting is done in the .ipynb file
 
-## save_plots toggle is needed to export plots, plots include:
+## Save_plots toggle is needed to export plots, plots include:
 1. Raw data plotting: visualizes timeseries data as it comes off of the SD cards
 2. Model accuracy plotting: linear scatter plot for model prediction vs actual data
 3. Model timeseries plotting: timeseries data of reference vs model prediction
