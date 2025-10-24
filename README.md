@@ -10,10 +10,11 @@
 |Gradient Boosting            |Machine learning w/ outlier handling, single tree   |
 |Random Forest                |Machine learning w/ outlier handling, multiple trees|
 
-## Code is structured so that all variables that need to be changed *should* be in the top cell. However, the code may still throw errors if syntax is off or wrong names are used. 
+## Addition of Config file for all conditionals, header file for better organization, all plotting is done in the .ipynb file
 
-## save_plots toggle is needed to export plots, plots include:
+## Save_plots toggle is needed to export plots, plots include:
 1. Raw data plotting: visualizes timeseries data as it comes off of the SD cards
 2. Model accuracy plotting: linear scatter plot for model prediction vs actual data
 3. Model timeseries plotting: timeseries data of reference vs model prediction
    - display_pod_data_timeseries toggle will display the raw pod data on this chart
+4. Residual plotting: plots residuals for regression model
